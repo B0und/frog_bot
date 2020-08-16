@@ -47,7 +47,6 @@ default_toad_list = [
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271490178088960/maxresdefault.jpg',
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271470930165784/5bd5f6f445fc409d9be4bfddd45e7372.jpg',
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271366819151922/index.png',
-    r'https://cdn.discordapp.com/attachments/519585558075277332/744271192495620216/1596404002.jpg',
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271103131779154/zhaba-kurit_244949923_orig_.jpg',
     r'https://cdn.discordapp.com/attachments/519585558075277332/744247380853129259/jab1.jpeg'
 ]
