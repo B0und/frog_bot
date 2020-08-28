@@ -47,7 +47,20 @@ default_toad_list = [
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271490178088960/maxresdefault.jpg',
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271366819151922/index.png',
     r'https://cdn.discordapp.com/attachments/519585558075277332/744271103131779154/zhaba-kurit_244949923_orig_.jpg',
-    r'https://cdn.discordapp.com/attachments/519585558075277332/744247380853129259/jab1.jpeg'
+    r'https://cdn.discordapp.com/attachments/519585558075277332/744247380853129259/jab1.jpeg',
+    r'https://i.redd.it/u4h78s3iw4a51.jpg',
+    r'https://i.imgur.com/GEhhehd.gifv',
+    r'https://i.imgur.com/fT4gWYD.gifv',
+    r'https://i.redd.it/i7u7my4hwyi51.jpg',
+    r'https://gfycat.com/incrediblehatefulasianwaterbuffalo',
+    r'https://cdn.discordapp.com/attachments/552534078134550528/746811094470754435/Qh79FhZ9cyM.jpg',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/745477481917710336/fb2aa0nNM6Q.jpg',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/746419122757304511/SEPGs71QlPs.png',
+    r'https://cdn.discordapp.com/attachments/743941195998167174/746469126804996106/FOZVBxaaIGc.jpg',
+    r'https://cdn.discordapp.com/attachments/674327319049011227/746707548069036102/3N6Lv7h0YRI.png',
+    r'https://cdn.discordapp.com/attachments/743941195998167174/747298073868239048/zoCKf7QXYDk.jpg',
+    r'https://cdn.discordapp.com/attachments/674327319049011227/748057283103031347/k8enLfUUksc.png'
+    
 ]
 
 toad_meme_seq = [
@@ -66,10 +79,11 @@ async def on_command_error(ctx, error):
 
 def init_pics():
     global pic_list
-    pic_list = default_toad_list
+    pic_list = list(set(default_toad_list))
     random.shuffle(pic_list)
     rand_num = random.randint(0, len(default_toad_list))
     pic_list = pic_list[0:rand_num] + toad_meme_seq + pic_list[rand_num:]
+
 
 
 @bot.event
