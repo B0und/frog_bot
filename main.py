@@ -59,14 +59,29 @@ default_toad_list = [
     r'https://cdn.discordapp.com/attachments/743941195998167174/746469126804996106/FOZVBxaaIGc.jpg',
     r'https://cdn.discordapp.com/attachments/674327319049011227/746707548069036102/3N6Lv7h0YRI.png',
     r'https://cdn.discordapp.com/attachments/743941195998167174/747298073868239048/zoCKf7QXYDk.jpg',
-    r'https://cdn.discordapp.com/attachments/674327319049011227/748057283103031347/k8enLfUUksc.png'
-    
+    r'https://cdn.discordapp.com/attachments/674327319049011227/748057283103031347/k8enLfUUksc.png',
+    r'https://media.discordapp.net/attachments/458718128868687873/750331734955917474/118673724_329629431719296_1164601705279387741_o.png?width=583&height=540',
+    r'https://cdn.discordapp.com/attachments/674327319049011227/750532079401566239/MAdji3GDJfU.png',
+    r'https://media.discordapp.net/attachments/674327319049011227/750501935240577094/8nwd3Fpv_l0.png?width=806&height=703',
+    r'https://cdn.discordapp.com/attachments/743941195998167174/750643043824173097/YLbNOe5a7o8.jpg',
+    r'https://cdn.discordapp.com/attachments/674327319049011227/751157759013158962/oa2XyyR4wnU.png',
+    r'https://cdn.discordapp.com/attachments/674327319049011227/751173523476578374/l01a7sPR3Vw.png',
+    r'https://cdn.discordapp.com/attachments/480635085419315200/702586622226595900/IMG_20200421_110434_252.jpg',
+    r'https://media.discordapp.net/attachments/346768691830063116/684343930296598568/IMG_20200303_121150.jpg',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/683288971446452224/8HZPO5iE00w.png',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/677193912917426205/SPOILER_z02MZYJoRpk.png',
+    r'https://cdn.discordapp.com/attachments/480635085419315200/713481343174049852/0DDfQt7A53c.png',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/669178577106763795/to19wKZcyFM.png',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/611504478876729361/m0AMF7XlFhA.png',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/752020769621540894/utss5x8VL9k.jpg',
+    r'https://cdn.discordapp.com/attachments/346768691830063116/753213241458425906/EhbbDLnXkAsbFDd.png'
+  
 ]
 
 toad_meme_seq = [
-    r'https://cdn.discordapp.com/attachments/519585558075277332/744271216331980810/D7fU8MKWsAA6IrH.jpg',
-    r'https://cdn.discordapp.com/attachments/519585558075277332/744271470930165784/5bd5f6f445fc409d9be4bfddd45e7372.jpg',
-    r'https://cdn.discordapp.com/attachments/519585558075277332/744271508012138606/scale_1200.webp'
+#     r'https://cdn.discordapp.com/attachments/519585558075277332/744271216331980810/D7fU8MKWsAA6IrH.jpg',
+#     r'https://cdn.discordapp.com/attachments/519585558075277332/744271470930165784/5bd5f6f445fc409d9be4bfddd45e7372.jpg',
+#     r'https://cdn.discordapp.com/attachments/519585558075277332/744271508012138606/scale_1200.webp'
 ]
 
 
