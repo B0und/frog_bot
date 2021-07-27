@@ -9,6 +9,7 @@ load_dotenv()
 TOKEN = os.environ['TOKEN']
 BOT_PREFIX = '!'
 
+# test changes
 # pics_dir = pathlib.Path("pics")
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
