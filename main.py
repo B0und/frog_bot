@@ -5,8 +5,7 @@ import random
 from dotenv import load_dotenv
 from discord.ext.commands import CommandNotFound
 
-# tes test test
-
+# new changes
 load_dotenv()
 TOKEN = os.environ['TOKEN']
 BOT_PREFIX = '!'
