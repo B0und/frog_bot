@@ -4,8 +4,10 @@ import os
 import random
 from dotenv import load_dotenv
 from discord.ext.commands import CommandNotFound
+# do this, because ssl errors when trying to run this after reboot
+import time
+time.sleep(10)
 
-# new changes
 load_dotenv()
 TOKEN = os.environ['TOKEN']
 BOT_PREFIX = '!'
